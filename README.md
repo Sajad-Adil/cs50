@@ -1,2 +1,2 @@
 # CS50
-Here is some of the CS50 projects and assignments
+Here is some of CS50's projects and assignments
